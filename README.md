@@ -1,7 +1,9 @@
-# 👋Welcome!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=4C905CEB&vCenter=true&random=false&width=500&lines=I'm+Davide+Esposito%2C;nice+to+meet+you!%F0%9F%91%8B)](https://git.io/typing-svg)
 
+---
 
-I'm Davide, here's a little about me:
+Here's a little about me:
+
 
 - 🏋️‍♂️ **Sports Lover:** Whether it's pumping iron at the gym or hitting the field for a game of soccer, I thrive on the adrenaline rush of staying active and pushing my limits.
 
