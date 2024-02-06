@@ -15,8 +15,9 @@ Here's a little about me:
 
 - 🧠 **Psychology Aficionado:** Delving into the intricacies of human behavior and the mysteries of the mind is a passion of mine. Understanding the complexities of human nature fuels my curiosity.
 
----
 
-Feel free to connect with me if you share any of these interests or if you simply want to chat! I'm always up for engaging discussions and learning from others.
+> Feel free to connect with me if you share any of these interests or if you simply want to chat! <br>
+>  I'm always up for engaging discussions and learning from others.
+
 
 [Excited GIF](https://giphy.com/embed/l0MYsC1UC0BGwG2SQ)
