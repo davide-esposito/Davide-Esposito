@@ -16,3 +16,5 @@ I'm Davide, here's a little about me:
 ---
 
 Feel free to connect with me if you share any of these interests or if you simply want to chat! I'm always up for engaging discussions and learning from others.
+
+[Excited GIF](https://giphy.com/embed/l0MYsC1UC0BGwG2SQ)
