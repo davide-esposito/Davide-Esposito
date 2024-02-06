@@ -12,3 +12,7 @@ I'm Davide, here's a little about me:
 - 💻 **Web Development Apprentice:** Currently, I'm immersing myself in the world of web development, eager to master the art of creating captivating digital experiences. The potential to craft innovative solutions and bring ideas to life excites me to no end.
 
 - 🧠 **Psychology Aficionado:** Delving into the intricacies of human behavior and the mysteries of the mind is a passion of mine. Understanding the complexities of human nature fuels my curiosity.
+
+---
+
+Feel free to connect with me if you share any of these interests or if you simply want to chat! I'm always up for engaging discussions and learning from others.
