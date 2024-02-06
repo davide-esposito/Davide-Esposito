@@ -22,7 +22,6 @@ Here's a little about me:
 
 <br>
 
-<div style="text-align: center;">
-    <img text-align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp0aG00aHBlbjgza3d5ZGx4YmNxMzgwOGg3ejQ0MnR2OWVxdng4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYsC1UC0BGwG2SQ/giphy.gif" alt="Excited GIF">
-</div>
+<img text-align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp0aG00aHBlbjgza3d5ZGx4YmNxMzgwOGg3ejQ0MnR2OWVxdng4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYsC1UC0BGwG2SQ/giphy.gif" alt="Excited GIF">
+
 
