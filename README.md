@@ -21,6 +21,3 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0MYsC1UC0BGwG2SQ/giphy.gif" alt="Excited GIF">
-</div>
